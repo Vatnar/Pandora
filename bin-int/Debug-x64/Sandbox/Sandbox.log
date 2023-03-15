@@ -1,0 +1,3 @@
+﻿  Application.cpp
+C:\Code\Pandora\Sandbox\src\Application.cpp(8,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sandbox.vcxproj -> C:\Code\Pandora\bin\Debug-x64\Sandbox\Sandbox.exe
